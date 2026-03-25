@@ -9,5 +9,5 @@
 	\since: 		"2010",
 	\schelp: 		"Classes/SynthDefAutogui",
 	\ext_dependency: "none",
-	\url:           "http://www.cirma.unito.it/andrea"
+	\url:           "https://github.com/vanderaalle/autogui"
 )
